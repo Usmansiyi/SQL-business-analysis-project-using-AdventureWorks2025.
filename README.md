@@ -11,14 +11,13 @@ The objective is to transform transactional data into actionable business insigh
 ## 🎯 Business Areas Covered
 
 **Sales Performance & Revenue**
-
-**[view sql queries]([01 SALES PERFORMANCES & REVENUE](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/01%20SALES%20PERFORMANCES%20%26%20REVENUE.sql))**
+[view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/01%20SALES%20PERFORMANCES%20%26%20REVENUE.sql)
 
 **Customer Analytics**
 [view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/02%20Customer%20Analytics.sql)
 
-
-Product & Inventory Analysis
+**Product & Inventory Analysis**
+[view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/03%20Product%20%26%20Inventory%20Analysis.sql)
 
 Operations & Supply Chain
 
