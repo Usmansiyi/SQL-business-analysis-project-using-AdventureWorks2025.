@@ -8,9 +8,10 @@
 This project analyzes the AdventureWorks2025 database using SQL to answer real-world business questions across sales, customers, products, operations, profitability, and strategy.
 The objective is to transform transactional data into actionable business insights that support decision-making.
 
-**🎯 Business Areas Covered**
+## 🎯 Business Areas Covered
 
-Sales Performance & Revenue
+**Sales Performance & Revenue**
+[view sql queries](01 SALES PERFORMANCES & REVENUE)
 
 Customer Analytics
 
