@@ -19,96 +19,103 @@ The objective is to transform transactional data into actionable business insigh
 **Product & Inventory Analysis**
 [view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/03%20Product%20%26%20Inventory%20Analysis.sql)
 
-Operations & Supply Chain
+**Operations & Supply Chain**
+[view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/04%20Operations%20%26%20Supply%20Chain.sql)
 
-Profitability & Cost Analysis
+**Profitability & Cost Analysis**
+[view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/05%20Profitability%20%26%20Cost%20Analysis.sql)
 
-Geographic & Territory Insights
+**Geographic & Territory Insights**
+[view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/06%20Geographic%20%26%20Territory%20Insights.sql)
 
-Advanced Analytical SQL
+**Advanced Analytical SQL**
+[view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/07%20Advanced%20Analytical%20SQL.sql)
 
-Executive & Strategic Questions
+**Executive & Strategic Questions**
+[view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/08%20Executive%20%26%20Strategic%20Questions.sql)
 
-🔹 Key Insights
-🧾 Sales Performance & Revenue
 
-Revenue shows a consistent upward trend over time.
 
-Online sales are growing faster than reseller sales, indicating a shift toward digital channels.
+## 🔹 Key Insights
+**🧾 Sales Performance & Revenue**
 
-A small number of products and territories contribute a large share of total revenue.
+--Revenue shows a consistent upward trend over time.
 
-Sales exhibit clear seasonal patterns.
+--Online sales are growing faster than reseller sales, indicating a shift toward digital channels.
 
-👥 Customer Analytics
+--A small number of products and territories contribute a large share of total revenue.
 
-Repeat customers generate most of the revenue.
+--Sales exhibit clear seasonal patterns.
 
-High-value customers are concentrated in specific segments.
+**👥 Customer Analytics**
 
-A portion of customers has been inactive for extended periods, indicating churn risk.
+--Repeat customers generate most of the revenue.
 
-Revenue distribution follows a Pareto (80/20) pattern.
+--High-value customers are concentrated in specific segments.
 
-📦 Product & Inventory Analysis
+--A portion of customers has been inactive for extended periods, indicating churn risk.
 
-A limited set of products drives most sales volume.
+--Revenue distribution follows a Pareto (80/20) pattern.
 
-Some products generate high revenue but low profit margins.
+**📦 Product & Inventory Analysis**
 
-Slow-moving inventory exists in certain categories, increasing holding costs.
+--A limited set of products drives most sales volume.
 
-Stock levels for some products frequently fall below reorder points.
+--Some products generate high revenue but low profit margins.
 
-🏭 Operations & Supply Chain
+--Slow-moving inventory exists in certain categories, increasing holding costs.
 
-Vendor lead times vary significantly.
+--Stock levels for some products frequently fall below reorder points.
 
-A small group of suppliers accounts for most delivery delays.
+**🏭 Operations & Supply Chain**
 
-Fulfillment time directly affects order performance.
+--Vendor lead times vary significantly.
 
-💰 Profitability & Cost Analysis
+--A small group of suppliers accounts for most delivery delays.
 
-Profit is unevenly distributed across products and territories.
+--Fulfillment time directly affects order performance.
 
-Discounts significantly reduce margins for selected high-volume products.
+**💰 Profitability & Cost Analysis**
 
-Several high-revenue products contribute relatively low profit.
+--Profit is unevenly distributed across products and territories.
 
-A small number of customers and products generate minimal or negative profit.
+--Discounts significantly reduce margins for selected high-volume products.
 
-🌍 Geographic & Territory Insights
+--Several high-revenue products contribute relatively low profit.
 
-Revenue is concentrated in a few regions.
+--A small number of customers and products generate minimal or negative profit.
 
-Certain territories show stronger growth potential than others.
+**🌍 Geographic & Territory Insights**
 
-Average order value differs significantly by region.
+--Revenue is concentrated in a few regions.
 
-📊 Advanced & Analytical Findings
+--Certain territories show stronger growth potential than others.
 
-Sales display consistent year-over-year growth patterns.
+--Average order value differs significantly by region.
 
-Rolling averages reveal long-term trends beyond short-term fluctuations.
+--📊 Advanced & Analytical Findings
 
-Pareto analysis confirms that a minority of customers and products drive most revenue.
+--Sales display consistent year-over-year growth patterns.
 
-Churn-risk customers can be identified using recency and frequency behavior.
+--Rolling averages reveal long-term trends beyond short-term fluctuations.
 
-🧠 Executive-Level Conclusions
+--Pareto analysis confirms that a minority of customers and products drive most revenue.
 
-Business growth is increasingly driven by online sales channels.
+--Churn-risk customers can be identified using recency and frequency behavior.
 
-Margin optimization should focus on low-margin, high-volume products.
+**🧠 Executive-Level Conclusions**
 
-Customer retention represents a major opportunity for revenue stability.
+--Business growth is increasingly driven by online sales channels.
 
-Vendor performance improvements can reduce operational inefficiencies.
+--Margin optimization should focus on low-margin, high-volume products.
 
-Expansion efforts should prioritize high-growth regions.
+--Customer retention represents a major opportunity for revenue stability.
 
-✅ Business Recommendations
+--Vendor performance improvements can reduce operational inefficiencies.
+
+--Expansion efforts should prioritize high-growth regions.
+
+## ✅ Business Recommendations
 
 Increase investment in digital and online sales channels.
 
@@ -120,7 +127,7 @@ Implement retention strategies for high-value inactive customers.
 
 Reassess vendor contracts with consistently long lead times.
 
-🛠 Tools & Skills Used
+## 🛠 Tools & Skills Used
 
 SQL (CTEs, Window Functions, Aggregations, Joins)
 
@@ -135,7 +142,6 @@ Analytical Thinking & Decision Support
 
 ## Author - Usman Siyi
 
-This project showcases MS Excel skills essential for analysing data. looking For someone with skills on Excel and data analysis , connect with me through the following channels:
 
 - **Email**: (nuraensiyi@gmail.com)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/UsmanSiyi)
