@@ -29,7 +29,7 @@ The objective is to transform transactional data into actionable business insigh
 [view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/06%20Geographic%20%26%20Territory%20Insights.sql)
 
 **Advanced Analytical SQL**
-[view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/07%20Advanced%20Analytical%20SQL.sql)
+[view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/07%20Advanced%20Analytical%20SQL%20Questions.sql)
 
 **Executive & Strategic Questions**
 [view sql queries](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/08%20Executive%2CDecision-Making%20Questions.sql)
