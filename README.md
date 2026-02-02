@@ -1,80 +1,131 @@
-# Project Title: Youth-Basketball-Program-Excel Project 
+# Project Title: AdventureWorks2025 SQL Business Analysis 
+
+**📌 Project Overview**
+
+<img width="640" height="845" alt="Screenshot 2026-02-02 022439" src="https://github.com/user-attachments/assets/3949c634-611e-45f3-ad8d-f21f41e993c7" />
 
 
+This project analyzes the AdventureWorks2025 database using SQL to answer real-world business questions across sales, customers, products, operations, profitability, and strategy.
+The objective is to transform transactional data into actionable business insights that support decision-making.
 
+**🎯 Business Areas Covered**
 
-## Project Overview
-The analysis shows that August is the peak revenue month, while December and November are the lowest-performing months. The 11–15 age group drives the highest revenue contribution, and programs such as Summer Camp, AAU Teams, and General/Non-Specific training attract the most customers. Overall, the program demonstrates strong financial performance, high customer engagement, and clear seasonal trends.
+Sales Performance & Revenue
 
+Customer Analytics
 
+Product & Inventory Analysis
 
+Operations & Supply Chain
 
-<img width="1299" height="679" alt="basketball program" src="https://github.com/user-attachments/assets/861a54f5-0f03-4b82-a182-7974b6d52cea" />
+Profitability & Cost Analysis
 
+Geographic & Territory Insights
 
+Advanced Analytical SQL
 
+Executive & Strategic Questions
 
+🔹 Key Insights
+🧾 Sales Performance & Revenue
 
-## Objectives
-  **This report examines the performance of the Youth Basketball Program, with the aim of understanding revenue patterns, customer demographics, program demand, and payment behavior.**
+Revenue shows a consistent upward trend over time.
 
-  
-**Key metrics include:**
+Online sales are growing faster than reseller sales, indicating a shift toward digital channels.
 
-*Total Revenue: $5.0M
+A small number of products and territories contribute a large share of total revenue.
 
-*Total Customers: 11,275
+Sales exhibit clear seasonal patterns.
 
-*Programs Offered: 27	
+👥 Customer Analytics
 
-*Payment Completion: 93% paid; $358K outstanding
+Repeat customers generate most of the revenue.
 
-*Top Revenue Cities: Greenwich, Stamford, Riverside, Darien
+High-value customers are concentrated in specific segments.
 
+A portion of customers has been inactive for extended periods, indicating churn risk.
 
+Revenue distribution follows a Pareto (80/20) pattern.
 
+📦 Product & Inventory Analysis
 
+A limited set of products drives most sales volume.
 
+Some products generate high revenue but low profit margins.
 
-## Reports
+Slow-moving inventory exists in certain categories, increasing holding costs.
 
-- **Methodology**: 
+Stock levels for some products frequently fall below reorder points.
 
-The analysis was conducted using Microsoft Excel, primarily leveraging Pivot Tables to summarize and organize data. Pivot Charts, slicers, and conditional formatting were used to visualize key trends and reveal patterns.
-- **Data Analysis**:
-  
-**1. Seasonal Revenue Pattern**
-   
-  * Peak Month: August, driven by high enrollment in Summer Camps and competitive programs.
+🏭 Operations & Supply Chain
 
-  * Lowest Months: December, followed by November, due to holiday periods and off-season inactivity.
+Vendor lead times vary significantly.
 
-**2. Customer Demographics**
-   
-  * The 11–15 age group is the core revenue driver, contributing $3.2M.
+A small group of suppliers accounts for most delivery delays.
 
-  * Other age groups contribute modestly, with 20+ years generating the least revenue.
+Fulfillment time directly affects order performance.
 
-**3. Top-Performing Programs**
- 
-  * Summer Camp, AAU Teams, and General/Non-Specific programs attract the highest customer counts.
+💰 Profitability & Cost Analysis
 
-  * Smaller programs include Elite MS Camps and Girls Summer Camps.
+Profit is unevenly distributed across products and territories.
 
-**4. Geographic Revenue Concentration**
-   
-  * Top revenue cities include Greenwich ($912K), Stamford ($853K), Riverside, and Darien.
-  * These areas represent high-income, high-participation communities.
+Discounts significantly reduce margins for selected high-volume products.
 
-**5. High-Value Families**
-   
-  * The Cartiera family is both the highest-paying and the largest participating household (132 customers).
-  * Several other families contribute strong recurring revenue.
+Several high-revenue products contribute relatively low profit.
 
-## Conclusion  
-These results suggest that the program has a solid financial base, strong demand among early-to-mid teens, and high participation in summer-driven activities. 
-## Recommendations
-Based on the findings, it is recommended to expand high-demand programs, introduce off-season training to reduce revenue dips, focus marketing on top-paying cities, and develop loyalty initiatives for high-value families.
+A small number of customers and products generate minimal or negative profit.
+
+🌍 Geographic & Territory Insights
+
+Revenue is concentrated in a few regions.
+
+Certain territories show stronger growth potential than others.
+
+Average order value differs significantly by region.
+
+📊 Advanced & Analytical Findings
+
+Sales display consistent year-over-year growth patterns.
+
+Rolling averages reveal long-term trends beyond short-term fluctuations.
+
+Pareto analysis confirms that a minority of customers and products drive most revenue.
+
+Churn-risk customers can be identified using recency and frequency behavior.
+
+🧠 Executive-Level Conclusions
+
+Business growth is increasingly driven by online sales channels.
+
+Margin optimization should focus on low-margin, high-volume products.
+
+Customer retention represents a major opportunity for revenue stability.
+
+Vendor performance improvements can reduce operational inefficiencies.
+
+Expansion efforts should prioritize high-growth regions.
+
+✅ Business Recommendations
+
+Increase investment in digital and online sales channels.
+
+Review discount strategies for low-margin products.
+
+Improve inventory planning for slow-moving and frequently out-of-stock items.
+
+Implement retention strategies for high-value inactive customers.
+
+Reassess vendor contracts with consistently long lead times.
+
+🛠 Tools & Skills Used
+
+SQL (CTEs, Window Functions, Aggregations, Joins)
+
+Business Metrics (Revenue, Profit, Growth, RFM, Pareto)
+
+Data Modeling & Relational Schema Analysis
+
+Analytical Thinking & Decision Support
 
 
 
