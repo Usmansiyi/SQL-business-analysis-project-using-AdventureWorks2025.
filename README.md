@@ -12,10 +12,10 @@ The objective is to transform transactional data into actionable business insigh
 
 **Sales Performance & Revenue**
 
-[view sql queries]([01 SALES PERFORMANCES & REVENUE](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/01%20SALES%20PERFORMANCES%20%26%20REVENUE.sql))
+**[view sql queries]([01 SALES PERFORMANCES & REVENUE](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/01%20SALES%20PERFORMANCES%20%26%20REVENUE.sql))**
 
-Customer Analytics
-
+**Customer Analytics**
+**[view sql queries]([01 SALES PERFORMANCES & REVENUE](https://github.com/Usmansiyi/SQL-business-analysis-project-using-AdventureWorks2025./blob/main/01%20SALES%20PERFORMANCES%20%26%20REVENUE.sql))**
 Product & Inventory Analysis
 
 Operations & Supply Chain
